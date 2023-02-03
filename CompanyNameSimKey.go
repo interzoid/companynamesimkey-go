@@ -3,7 +3,7 @@
 // name data by similarity. This avoids the problems of data inconsistency, misspellings, and name variations
 // when matching within a single dataset, and can also help matching across datasets or for more advanced searching.
 
-package FullNameSimKey
+package CompanyNameSimKey
 
 // visit www.interzoid.com to obtain the required API license key - free trial available
 
